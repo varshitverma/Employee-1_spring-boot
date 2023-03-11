@@ -1,7 +1,7 @@
 Given four files `EmployeeController.java`, `EmployeeRepository.java`, `EmployeeService.java` and  `Employee.java`.
 The `EmployeeService` class has a variable named `employeeList`, which is a HashMap that holds `Integer`s as keys and `Employee` objects as values. Initially, it contains data of **6** employees.
 
-### Completion Instructions
+### Instructions
 
 - `Employee.java`: `Employee` class should contain the following attributes.
 
